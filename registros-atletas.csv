@@ -1,0 +1,101 @@
+id,nome,ano de nascimento,esporte,nacionalidade
+1,LeBron James,1984,Basquete,Estados Unidos
+2,Michael Phelps,1985,Natacao,Estados Unidos
+3,Lionel Messi,1987,Futebol,Argentina
+4,Serena Williams,1981,Tenis,Estados Unidos
+5,Usain Bolt,1986,Atletismo,Jamaica
+6,Simone Biles,1997,Ginastica,Estados Unidos
+7,Floyd Mayweather,1977,Boxe,Estados Unidos
+8,Kim Yeon-Koung,1988,Volei,Coreia do Sul
+9,Chris Froome,1985,Ciclismo,Reino Unido
+10,Marit Bjorgen,1980,Esqui,Noruega
+11,Clayton Kershaw,1988,Beisebol,Estados Unidos
+12,Yuzuru Hanyu,1994,Patinacao Artistica,Japao
+13,Richie McCaw,1980,Rugby,Nova Zelandia
+14,Tom Daley,1994,Salto Ornamental,Reino Unido
+15,Saori Yoshida,1982,Luta Livre,Japao
+16,Allyson Felix,1985,Atletismo,Estados Unidos
+17,Steve Smith,1989,Cricket,Australia
+18,Mahe Drysdale,1978,Remo,Nova Zelandia
+19,Tom Brady,1977,Futebol Americano,Estados Unidos
+20,Lin Dan,1983,Badminton,China
+21,Brady Ellison,1988,Arco e Flecha,Estados Unidos
+22,Teddy Riner,1989,Judo,Franca
+23,Anderson Silva,1975,Artes Marciais,Brasil
+24,Charlotte Dujardin,1985,Hipismo,Reino Unido
+25,Santiago Lange,1961,Veiculo a Vela,Argentina
+26,Domagoj Duvnjak,1988,Handebol,Croacia
+27,Lasha Talakhadze,1993,Levantamento de Peso,Georgia
+28,Ma Long,1988,Tenis de Mesa,China
+29,John John Florence,1992,Surf,Estados Unidos
+30,Sidney Crosby,1987,Hoquei no Gelo,Canada
+31,Inbee Park,1988,Golfe,Coreia do Sul
+32,Bob Burnquist,1976,Skate,Brasil
+33,Aldo Montano,1978,Esgrima,Italia
+34,Kim Rhode,1979,Tiro,Estados Unidos
+35,Francesco Friedrich,1990,Bobsled,Alemanha
+36,Ona Carbonell,1990,Nado Sincronizado,Espanha
+37,Jonathan Brownlee,1990,Triatlo,Reino Unido
+38,Nino Schurter,1986,Mountain Bike,Suica
+39,Adam Ondra,1993,Escalada,Republica Tcheca
+40,Alison Cerutti,1985,Volei de Praia,Brasil
+41,Ole Einar Bjorndalen,1974,Biatlo,Noruega
+42,Felix Loch,1989,Luge,Alemanha
+43,Tony Azevedo,1981,Polo Aquatico,Estados Unidos
+44,Yana Kudryavtseva,1997,Ginastica Ritmica,Russia
+45,Lee Dae-Hoon,1992,Taekwondo,Coreia do Sul
+46,Ellie Simmonds,1994,Paranatacao,Reino Unido
+47,Chloe Kim,2000,Snowboard,Estados Unidos
+48,Manon Brunet,1996,Esgrima,Franca
+49,Alexander Lesun,1988,Pentatlo Moderno,Russia
+50,Ding Ning,1990,Tenis de Mesa,China
+51,Shi Zhiyong,1993,Levantamento de Peso,China
+52,Bianca Andreescu,2000,Tenis,Canada
+53,Kento Momota,1994,Badminton,Japao
+54,Tim Tszyu,1994,Boxe,Australia
+55,Heung-Min Son,1992,Futebol,Coreia do Sul
+56,Shelly-Ann Fraser-Pryce,1986,Atletismo,Jamaica
+57,Nikita Nagornyy,1997,Ginastica,Russia
+58,Federica Pellegrini,1988,Natacao,Italia
+59,Pau Gasol,1980,Basquete,Espanha
+60,Therese Johaug,1988,Esqui,Noruega
+61,Antoine Griezmann,1991,Futebol,Franca
+62,Zhu Ting,1994,Volei,China
+63,David Pocock,1988,Rugby,Australia
+64,Christian Coleman,1996,Atletismo,Estados Unidos
+65,Helen Glover,1986,Remo,Reino Unido
+66,Rafael Silva,1987,Artes Marciais,Brasil
+67,Isabell Werth,1969,Hipismo,Alemanha
+68,Mo Farah,1983,Atletismo,Reino Unido
+69,Mike Trout,1991,Beisebol,Estados Unidos
+70,Valentino Rossi,1979,Motociclismo,Italia
+71,Neymar Junior,1992,Futebol,Brasil
+72,Katie Ledecky,1997,Natacao,Estados Unidos
+73,Caroline Wozniacki,1990,Tenis,Dinamarca
+74,Tiger Woods,1975,Golfe,Estados Unidos
+75,Novak Djokovic,1987,Tenis,Servia
+76,Caster Semenya,1991,Atletismo,Africa do Sul
+77,Petra Kvitova,1990,Tenis,Republica Tcheca
+78,Kimi Raikkonen,1979,Automobilismo,Finlandia
+79,Sebastian Vettel,1987,Automobilismo,Alemanha
+80,Davide Rebellin,1971,Ciclismo,Italia
+81,Greg Rutherford,1986,Atletismo,Reino Unido
+82,Gareth Bale,1989,Futebol,Pais de Gales
+83,Wayde van Niekerk,1992,Atletismo,Africa do Sul
+84,Shaun White,1986,Snowboard,Estados Unidos
+85,Mike Bryan,1978,Tenis,Estados Unidos
+86,Bethanie Mattek-Sands,1985,Tenis,Estados Unidos
+87,Fabian Cancellara,1981,Ciclismo,Suica
+88,Julian Alaphilippe,1992,Ciclismo,Franca
+89,Magnus Carlsen,1990,Xadrez,Noruega
+90,Andy Murray,1987,Tenis,Reino Unido
+91,Vincent Kompany,1986,Futebol,Belgica
+92,Henrik Lundqvist,1982,Hoquei no Gelo,Suecia
+93,Kai Greene,1975,Culturismo,Estados Unidos
+94,Rory McIlroy,1989,Golfe,Irlanda do Norte
+95,Angelique Kerber,1988,Tenis,Alemanha
+96,Juan Martin del Potro,1988,Tenis,Argentina
+97,Jordan Spieth,1993,Golfe,Estados Unidos
+98,Ginobili,1977,Basquete,Argentina
+99,Phil Mickelson,1970,Golfe,Estados Unidos
+100,Patrick Mahomes,1995,Futebol Americano,Estados Unidos
